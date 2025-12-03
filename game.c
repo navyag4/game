@@ -86,9 +86,7 @@ int main() {
                 break;
             }
         }
-        
         Sleep(speed);  // Use variable speed
-        
         // Move obstacle down
         step++;
         
